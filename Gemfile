@@ -25,6 +25,7 @@ gem 'devise'
 gem 'rexml'
 gem 'devise-i18n'
 gem 'rails_admin'
+gem 'cancancan'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
